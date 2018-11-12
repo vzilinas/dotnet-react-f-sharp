@@ -11,7 +11,9 @@
 
   <ItemGroup>
     <Compile Include="Models/WeatherForecast.fs" />
+    <Compile Include="Models/ErrorViewModel.fs" />
     <Compile Include="Controllers/SampleDataController.fs" />
+    <Compile Include="Controllers/ErrorController.fs" />
     <Compile Include="Startup.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
